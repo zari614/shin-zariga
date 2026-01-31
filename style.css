@@ -1,0 +1,12 @@
+﻿body {
+  margin: 0;
+  background: #0e1a1f;
+  color: #fff;
+  font-family: "Noto Sans JP", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+canvas#phina-canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
